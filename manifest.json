@@ -1,0 +1,5 @@
+{
+    "name": "News Juice",
+    "description": "Find interesting news articles by category or keyword search",
+    "start_url": "index.html"
+}
